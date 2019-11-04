@@ -35,8 +35,13 @@
     align-content: center;
     justify-content: center;
 }
+.todo-list article span{
+    align-content: center;
+    justify-content: center;
+}
 
 .todo-list input{
     border: 2px solid red;
     border-radius: 4px;
 }
+
