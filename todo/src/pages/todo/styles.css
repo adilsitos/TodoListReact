@@ -1,0 +1,42 @@
+.todo-list{
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 30px;
+}
+
+.todo-list article{
+    background: #FFFF;
+    border : 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.todo-list article h4{
+    font-size: 16px;
+    margin-top:5px;
+    line-height: 24px;
+}
+
+.todo-list article h4{
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid #671abe;
+    background: none;
+    margin-top: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.todo-list article h1{
+    align-content: center;
+    justify-content: center;
+}
+
+.todo-list input{
+    border: 2px solid red;
+    border-radius: 4px;
+}
